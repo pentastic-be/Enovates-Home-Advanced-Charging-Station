@@ -1,8 +1,6 @@
 # Enovates Home Advanced Charging Station
 Serial connection to the Enovates Home Advanced Charging Station
 
-# Enovates HOMEADVANCED Charger
-
 ## **Requirements**:
 
 - Serial port cable + gender changer: for example the “DIGITUS Serial Port Slot Bracket Adapter Cable 10 Pin IDC to D-Sub 9 Female Plug to Connector Flat Ribbon Cable” (pinout assignment: 1-1; 6-2; 2-3; 7-4; 3-5; 8-6; 4-7; 4-7; 9-8; 5-9) and the “DIGITUS D-Sub 9 Gender Changer Adapter Connector 9 Pin Female to Female RS-232 RS-485 TTL Metal Housing”
