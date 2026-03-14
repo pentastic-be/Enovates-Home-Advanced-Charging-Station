@@ -1,5 +1,5 @@
 # Enovates / Newmotion Home Advanced Charging Station
-Serial connection to the Enovates Home Advanced Charging Station
+Serial connection to the Enovates / Newmotion Home Advanced Charging Station
 
 ## **Requirements**:
 
