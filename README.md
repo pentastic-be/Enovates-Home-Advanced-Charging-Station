@@ -23,23 +23,32 @@ Serial connection to the Enovates Home Advanced Charging Station
     
 https://www.amazon.com.be/-/en/dp/B006DYQNIK?ref=ppx_yo2ov_dt_b_fed_asin_title
 
-
-
-- USB to Serial Adapter (DB9), for example (untested):
+<img width="1500" height="1000" alt="image" src="https://github.com/user-attachments/assets/a61f7863-d567-4821-aba6-921296d964a7" />
 
 https://www.amazon.com.be/-/en/gp/product/B00BBVXWFM/ref=ox_sc_act_title_1?smid=A3Q3FYJVX702M2&th=1
 
+<img width="1500" height="886" alt="image" src="https://github.com/user-attachments/assets/452080b1-4092-4930-b4cd-ef67e417155f" />
 
+- USB to Serial Adapter (DB9), for example (untested):
   
-- RJ45 erthernet UTP cable to a network with a dhcp server
+https://www.amazon.com.be/DriverGenius-SerialEdgeX-Serial-Adapter-Monitoring/dp/B01LVYR1AB?th=1
+
+Other older working examples I tested:
+
+<img width="692" height="662" alt="image" src="https://github.com/user-attachments/assets/bac02a6a-7c85-4c79-948e-e6c0d97d8c69" />
+  
+- RJ45 ethernet UTP cable to a network with a dhcp server
+  
 
 ## **Procedure:**
 
 - Attach the UTP cable to your network and to the charging station, check for the leds to come up.Green = normal rj45 ethernet UTP connection(Red is not required: this is the rj11 Load-Balancing connection)
 
+<img width="548" height="601" alt="image" src="https://github.com/user-attachments/assets/2b87aca3-5fbc-4795-9535-6b0332357ad8" />
 
 - Connect the Serial console cable to your pc with the usb serial adapter using a DB9 Female to Female cable (straight!) or a D-Sub 9 Gender Changer Female/Female.
 
+<img width="575" height="633" alt="image" src="https://github.com/user-attachments/assets/58861d68-55f8-4472-a80f-fca1eebe4e1f" />
   
 - Choose serial port settings 115200 8N1 in your favourite serial software (minicom, putty,…)
 - Press ‘Enter’ to connect, the following prompt should appear.
@@ -96,7 +105,8 @@ The admin page requires a password, the user page does not.
 
 - Fill in anything you want in the first popup, admin will work fine for example.
 
-
+<img width="1195" height="403" alt="image" src="https://github.com/user-attachments/assets/44c332ce-bcd0-4cf5-b2b7-8a26ae95bff7" />
 
 - In the following screen the username is admin, and the password is the one you grepped in the [lccl.properties](http://lccl.properties) file.
-
+- 
+<img width="772" height="630" alt="image" src="https://github.com/user-attachments/assets/abbc7137-c1d1-4238-8e2b-1f4a82eb015a" />
