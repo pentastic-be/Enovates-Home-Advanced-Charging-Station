@@ -51,7 +51,7 @@ Other older working examples I tested:
 <img width="575" height="633" alt="image" src="https://github.com/user-attachments/assets/58861d68-55f8-4472-a80f-fca1eebe4e1f" />
   
 - Choose serial port settings 115200 8N1 in your favourite serial software (minicom, putty,…)
-- Press ‘Enter’ to connect, the following prompt should appear.  The password is not documented here, but can be found circulating on the internet.
+- Press ‘Enter’ to connect, the following prompt should appear.  The root password is not documented here, but can be found circulating on the internet.
 
 ```
 Welcome to minicom 2.10
