@@ -40,7 +40,9 @@ Other older working examples I tested:
 
 ## **Procedure:**
 
-- Attach the UTP cable to your network and to the charging station, check for the leds to come up.Green = normal rj45 ethernet UTP connection(Red is not required: this is the rj11 Load-Balancing connection)
+- Attach the UTP cable to your network and to the charging station, check for the leds to come up.
+  Green = normal rj45 ethernet UTP connection
+  (Red is not required: this is the rj11 Load-Balancing connection)
 
 <img width="548" height="601" alt="image" src="https://github.com/user-attachments/assets/2b87aca3-5fbc-4795-9535-6b0332357ad8" />
 
