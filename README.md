@@ -108,5 +108,5 @@ The admin page requires a password, the user page does not.
 <img width="1195" height="403" alt="image" src="https://github.com/user-attachments/assets/44c332ce-bcd0-4cf5-b2b7-8a26ae95bff7" />
 
 - In the following screen the username is admin, and the password is the one you grepped in the [lccl.properties](http://lccl.properties) file.
-- 
+  
 <img width="772" height="630" alt="image" src="https://github.com/user-attachments/assets/abbc7137-c1d1-4238-8e2b-1f4a82eb015a" />
